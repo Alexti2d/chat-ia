@@ -45,3 +45,5 @@ Pour ce projet, il n'y a pas de nécessité de déploiement. Le code sera exécu
 pour lancer chat front npm run dev
 
 pour lancer chat api npm run start
+
+Pour que l'IA réponde il faut ouvrir koboldcpp.exe sur le port 5001
